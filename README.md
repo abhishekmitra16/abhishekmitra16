@@ -2,7 +2,7 @@
 ### **AWS Cloud Engineer** | Serverless & Infrastructure as Code Specialist
 <!-- Add correct AWS badge from img shields -->
 
-[![AWS Certified](https://custom-icon-badges.demolab.com/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?logo=aws-svg-final&style=for-the-badge)](https://www.credly.com/badges/f3912e70-b994-45d1-830d-74e5eba9a0a3)
+[![AWS Certified](https://custom-icon-badges.demolab.com/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?logo=aws-svg-final&style=for-the-badge&color=purple)](https://www.credly.com/badges/f3912e70-b994-45d1-830d-74e5eba9a0a3)
 [![GitHub Actions Certified](https://img.shields.io/badge/GitHub%20Actions-Certified-2088FF?logo=githubactions&style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-gb/users/abhishekmitra-9020/credentials/626f65b7997b6ac0)
 [![Terraform Certified](https://img.shields.io/badge/HashiCorp-Terraform%20Certified-7B42BC?logo=terraform&style=for-the-badge&logoColor=white)](https://www.credly.com/badges/b49a020f-ca08-40c8-9101-ad48e8476e4e/public_url)
 
